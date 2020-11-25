@@ -1,9 +1,9 @@
-# ProgrammingChallenges
+# Programming Challenges
 
 My solutions to programming exercises and problems.
 ___
 ## Codewars
-![CodeWars Banner](https://www.codewars.com/users/Leoamros/badges/large)
+[![CodeWars Banner](https://www.codewars.com/users/Leoamros/badges/large)](https://www.codewars.com/users/Leoamros)
 
 * [7 kyu](https://github.com/codewars/codewars.com/wiki/Kata-Ranking) - [Highest and lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) - [My solution](https://github.com/LeoamrosIV/ProgrammingChallenges/blob/main/Codewars/JavaScript/001_7kyu_Highest_and_lowest.js)
 * [7 kyu](https://github.com/codewars/codewars.com/wiki/Kata-Ranking) - [Categorize new member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) - [My solution](https://github.com/LeoamrosIV/ProgrammingChallenges/blob/main/Codewars/JavaScript/002_7kyu_Categorize_new_member.js)
